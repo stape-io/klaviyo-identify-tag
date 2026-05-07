@@ -13,3 +13,6 @@ The power of Klaviyo server-side tracking cannot be underestimated when it comes
 Initial development was done by [Lars Friis](https://www.linkedin.com/in/lars-friis/).
 
 Klaviyo Identify tag for GTM is developed and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/klaviyo-identify-tag)
